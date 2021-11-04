@@ -1,0 +1,48 @@
+<doctype/html>
+<html>
+  <head>
+    <title> Graham Zephirin's Lab 6! </title>
+  </head>
+  <body>
+  <script>
+  <h1> Welcome to my sixth lab assignment for GIS 3410! </h1>
+  </script>
+  
+  <h2> About me: </h2>
+  <p> I am a senior at MSU Denver and should (hopefully) be graduating in the spring! I am a biology major and a GIS minor.</p> 
+  <p>Outside of school, I work, travel, and do a lot of work for a local conservation group and I love being out in the field!</p>
+  <h3> What I plan to do after I graduate: </h3>
+  <ol>
+    <li>Travel to Australia and Papua New Guinea <a href="https://www.reptiletalk.net/boelens-python">Take a moment to learn about one of Papua New Guinea's coolest snake species!</a></li>
+    <img src="https://www.reptiletalk.net/wp-content/uploads/2015/11/Boelens-Python.jpg"</img>
+    <li>Buy a Subaru Crosstrek</li>
+    <li>Finish the work I'm doing at the conservation group I work with. <a href="http://www.coparc.org/speckled-kingsnake.html">Check out some of my work here!</a> </li>
+    <li>RELAX</li>
+  </ol>
+  
+  <h3>Classes I am taking this semester:</h3>
+  <ul>
+    <li>Issues in Conservation Biology</li>
+    <li>Vascular Plant Taxonomy</li>
+    <li>Cartography</li>
+    <li>Web Mapping</li>
+  </ul>
+ 
+    <table> 
+    <table border=1>
+      <tr><th>Am I at...?</th>
+        <th>Monday-Friday</th>
+        <th>Weekends</th>
+      </tr>
+      
+      <tr><td>Work</td>
+        <td>Yes</td>
+        <td>No</td>
+      </tr>
+      
+      <tr><td>School</td>
+        <td>Yes</td>
+        <td>No</td>
+      </tr>
+  </body>
+  </html>
